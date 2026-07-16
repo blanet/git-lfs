@@ -1,0 +1,33 @@
+demo.ids
+  s_39c506d36772bc::t_f0c584d2a52ed8 1-10
+gen-demo-ids.sh
+  s_63f3dc956428b0::t_7fa8aba50de936 1-14
+.gitignore
+  s_39c506d36772bc::t_43b385d2af325e 45-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d0af79dd74cff6daaf0f19cfcb516290348bab6b",
+  "prompts": {},
+  "sessions": {
+    "s_39c506d36772bc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "51df4d2b-bfbd-4b64-ae12-693692eeb043",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Xing Xin <xingxin.xx@bytedance.com>"
+    },
+    "s_63f3dc956428b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "59ad919d-a808-4fd0-9fd5-e5ff487b14a8",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Xing Xin <xingxin.xx@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}

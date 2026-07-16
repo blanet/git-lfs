@@ -42,3 +42,6 @@ lfstest-*
 !lfstest-*.go
 
 vendor/
+
+# 运行时日志
+log/
